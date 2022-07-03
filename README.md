@@ -1,3 +1,6 @@
+This project provides the implementations for the paper "Active Structure Learning of Bayesian Networks in an Observational Setting", Noa Ben-David and Sivan Sabato, Journal of Machine Learning Research, to appear, https://arxiv.org/abs/2103.13796.
+
+
 1. unzip eBNSL package with the command: unzip eBNSL.zip
 2. navigate to eBNSL folder, and follow the README file to compile the package. 
 3. in eBNSL folder, create an empty folder called 'networks' with the following command: mkdir networks
