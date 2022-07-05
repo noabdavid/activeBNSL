@@ -1,4 +1,4 @@
-This project provides the implementations for the paper "Active Structure Learning of Bayesian Networks in an Observational Setting", Noa Ben-David and Sivan Sabato, Journal of Machine Learning Research, to appear, https://arxiv.org/abs/2103.13796.
+This project provides the implementations for the paper "Active Structure Learning of Bayesian Networks in an Observational Setting", Noa Ben-David and Sivan Sabato, Journal of Machine Learning Research, to appear. Preprint available at: https://arxiv.org/abs/2103.13796.
 
 
 1. unzip eBNSL package with the command: unzip eBNSL.zip
